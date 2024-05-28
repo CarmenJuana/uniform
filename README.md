@@ -1,6 +1,7 @@
 # uniform
 aplicacion web para venta de uniformes.
-##Iniciar proyecto
+
+## Iniciar proyecto
 corre-proyecto.exe
 1.Ejecutrar
 2.Iniciar
